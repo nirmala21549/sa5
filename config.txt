@@ -1,0 +1,2 @@
+Host github.com
+IdentityFile C:\Users\Admin\.ssh\sa5-act2
